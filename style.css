@@ -1,0 +1,161 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section{
+    width: 90%;
+    height: auto;
+    margin-left: 8%;
+}
+.toptext_area{
+    width:40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+.toptext_area h1{
+    font-size: xxx-large;
+    font-family: auto;
+    margin-bottom: 0;
+    margin-top: 16%;
+}
+.toptext_area h1 span{
+    color:#1e81b0;
+}
+.toptext_area button{
+    background-color: #1e81b0;
+    padding: 15px 25px;
+    border: 2px solid;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.toptext_area button:hover{
+    background-color: aliceblue;
+    color: #1e81b0;
+    border: 2px solid;
+    border-radius: 10px;
+    transition: 0.6s ease;
+}
+.topimg_area{
+    width:40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+}
+.topimg_area img{
+    width: 68%;
+}
+.left_border{
+    border-left: 2px solid;
+    border-color: #1e81b0;
+    padding-left: 10px;
+}
+.paragraph_tag{
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+
+                            /*------- Section 2 ------- */
+
+/* .hone_area{
+/*margin-top: 10px;
+} */
+.hone_area h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 52px;
+}
+.hone_area h1 span{
+    color:#1e81b0;
+}
+.content-width{
+    width: 14%;
+    float: left;
+    margin-left: 10%;
+    padding: 25px;
+    border: 2px none;
+    border-radius: 20px;
+}
+.content-width img{
+    width: 110%;
+}
+.content-width h3 {
+    margin-top: 10px;
+}
+.content-width p {
+    text-align: inherit;
+}
+.backcolor_one{
+    background-color:#0000001C;
+}
+.backcolor_tow{
+    background-color:#D8E2E7;
+}
+.backcolor_three{
+    background-color:#38A89C73;
+}
+
+                                
+.develop_area{
+    margin-left: 9%;
+}                                                           
+
+.develop_left{
+    width: 30%;
+    float: left;
+}
+.develop_left img {
+    width: 83%;
+    padding: 20px;
+}
+.develop_right{
+    width: 70%;
+    margin-left: 9%;
+}
+.button_class{
+    background-color: #1e81b0;
+    padding: 15px 25px;
+    border: 2px solid;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.button_class:hover{
+    background-color: aliceblue;
+    color: #1e81b0;
+    border: 2px solid;
+    border-radius: 10px;
+    transition: 0.6s ease;
+}
+
+                                /*------- Section 3 ------- */
+
+
+.global_community_area{
+    margin-top: 13%;
+    display: block;
+}
+.global_community_left{
+    width: 45%;
+    float: left;
+    margin-left: 9%;
+    display: block;
+}
+.global_community_right{
+    width: 30%;
+    float: right;
+    margin-right: 13%;
+}
+.global_community_right img{
+    width: 85%;
+    padding: 20px;
+}
+
+
+.footer_area{
+    width: 73%;
+    margin: 44% 9%;
+    background-color: royalblue;
+    text-align: center;
+    padding: 14px;
+}
